@@ -21,4 +21,4 @@ You can explore and test the model using this **Google Colab** notebook:
 ## Demo
 Here’s how the interface looks:
 
-![Text Generation Interface](images/image.png)
+![Text Generation Interface](image.png)
